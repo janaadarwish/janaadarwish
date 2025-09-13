@@ -1,6 +1,6 @@
 <h2>This is <a href="https://github.com/janaadarwish">Jana Darwish</a></h2>
 
-💻 **Computer Science Student @ Helwan University** | 💡 **AI & Machine Learning Enthusiast**  
+💻 Computer Science Student @ Helwan University | 💡 **AI & Machine Learning Enthusiast**
 🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
 
 🔭 **Currently Working On:**  
