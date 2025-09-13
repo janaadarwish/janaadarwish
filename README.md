@@ -1,5 +1,12 @@
-<h2>Hey 👋, I'm <a href="https://github.com/janaadarwish">Jana Darwish</a></h2>
-<p>I'm currently a Computer Science student at <strong>Helwan University</strong> in Egypt. I enjoy working on AI and Machine Learning projects, coding creative web apps, and making films and vlogs. In my free time, I love reading, writing, and exploring new ideas to make life more interesting.</p>
+<h2>This is <a href="https://github.com/janaadarwish">Jana Darwish</a></h2>
+
+💻 **Computer Science Student @ Helwan University** | 💡 **AI & Machine Learning Enthusiast**  
+🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
+
+🔭 **Currently Working On:**  
+- Machine learning projects (Heart Disease Prediction, House Price Prediction)  
+- Growing my Kaggle profile & sharpening my data science skills  
+- Practicing JavaScript and solving LeetCode problems  
 
 <p>
   <a href="https://github.com/janaadarwish"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
@@ -11,16 +18,16 @@
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>🌱 ** License & Certifications**</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/janaadarwish/heart-disease-ml">Heart Disease Prediction ML Project</a> and other AI/ML projects.</li>
-  <li>🧐 Learning about <strong>machine learning</strong>, <strong>Python frameworks</strong>, and <strong>web development</strong>.</li>
-  <li>👩‍💻 Most of my projects are available on <a href="https://github.com/janaadarwish">GitHub</a>.</li>
-  <li>📝 I write and share thoughts about coding and creative projects.</li>
-  <li>💬 Ping me about <strong>Python, AI/ML, JavaScript, and Vue.js</strong>.</li>
-  <li>📙 Check out my <a href="https://github.com/janaadarwish/janaadarwish/blob/main/Resume.pdf">resume</a>.</li>
-  <li>🎉 Fun Fact: I love filming, vlogging, and writing poetry.</li>
+  <li>🎓 <strong>Kaggle</strong> – Intro to Programming</li>
+  <li>🤖 <strong>Kaggle</strong> – Intro to Machine Learning</li>
+  <li>🧠 <strong>NVIDIA</strong> – Getting Started with Deep Learning</li>
+  <li>🌐 <strong>IEEE</strong> – Front-End Development Course</li>
+  <li>📊 <strong>SprintX</strong> – AI & ML Fundamentals</li>
+  <li>📊 <strong>Oracle</strong> – AI infastructures</li>
 </ul>
+<br>
 <hr>
 <h2 align="center">📊 Kaggle </h2>
 <h5 align="center">this is <a href="//www.kaggle.com/janaadarwish"> Jana Amin </a> an active Kaggle learner exploring Machine learning, data analysis, and model building. I use Kaggle to experiment with real-world datasets, practice feature engineering, and share my progress through notebooks. Currently focused on **classification problems** (like heart disease prediction) and **regression tasks** (like house price prediction).</h6>
