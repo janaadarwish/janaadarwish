@@ -23,7 +23,9 @@
 </ul>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-![Kaggle Stats](https://road-to-kaggle-grandmaster.vercel.app/api/simple/janaadarwish)
+kagg.jpg
+ 📊 Kaggle  
+![Kaggle](kagg.jpg)
 <br>
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaadarwish&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
