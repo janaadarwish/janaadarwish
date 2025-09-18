@@ -31,7 +31,7 @@
 <hr>
 <h2 align="center">📊 Kaggle </h2>
 <h5 align="center">this is <a href="//www.kaggle.com/janaadarwish"> Jana Amin </a> an active Kaggle learner exploring Machine learning, data analysis, and model building. I use Kaggle to experiment with real-world datasets, practice feature engineering, and share my progress through notebooks. Currently focused on **classification problems** (like heart disease prediction) and **regression tasks** (like house price prediction).</h6>
-<img src="kagg.jpg" width="100%"/>
+<img src="ss.jpg" width="100%"/>
 
 <br>
 <p align=center>
