@@ -22,9 +22,10 @@
 <ul>
   <li>🎓 <strong>Kaggle</strong> – Intro to Programming</li>
   <li>🤖 <strong>Kaggle</strong> – Intro to Machine Learning</li>
+  <li>🤖 <strong>NTI</strong> – Machine Learning</li>
   <li>🧠 <strong>NVIDIA</strong> – Getting Started with Deep Learning</li>
   <li>🌐 <strong>IEEE</strong> – Front-End Development Course</li>
-  <li>📊 <strong>SprintX</strong> – AI & ML Fundamentals</li>
+  <li>📊 <strong>SprintXmicrosoft</strong> – AI & ML Fundamentals</li>
   <li>📊 <strong>Oracle</strong> – AI infastructures</li>
 </ul>
 <br>
