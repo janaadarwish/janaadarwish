@@ -26,7 +26,6 @@
   <li>🧠 <strong>NVIDIA</strong> – Getting Started with Deep Learning</li>
   <li>🌐 <strong>IEEE</strong> – Front-End Development Course</li>
   <li>📊 <strong>SprintXmicrosoft</strong> – AI & ML Fundamentals</li>
-  <li>📊 <strong>Oracle</strong> – AI infastructures</li>
 </ul>
 <br>
 <hr>
