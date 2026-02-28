@@ -3,15 +3,6 @@
 💻 Computer Science Student @ Helwan University | 💡 **AI & Machine Learning Enthusiast**
 🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
 
-<p>
-  <a href="https://github.com/janaadarwish"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
-  <a href="https://www.linkedin.com/in/jana-darwish-29613732b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:janaa.dariwsh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://open.spotify.com/user/your_spotify_id"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white" alt="Spotify Badge"></a>
-  <a href="https://www.snapchat.com/add/your_snapchat_username"><img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=Snapchat&logoColor=black" alt="Snapchat Badge"></a>
-  <a href="https://www.kaggle.com/janaadarwish"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a>
-</p>
-
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>🌱 ** License & Certifications**</h2>
 <ul>
