@@ -1,4 +1,4 @@
-<h2>This is <a href="https://github.com/janaadarwish">Jana Darwish</a></h2>
+<h2>This is <a href="https://github.com/janaadarwish">Jana Amin</a></h2>
 
 💻 Computer Science Student @ Helwan University | 💡 **AI & Machine Learning Enthusiast**
 🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
