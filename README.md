@@ -29,10 +29,6 @@
 </ul>
 <br>
 <hr>
-<h2 align="center">📊 Kaggle </h2>
-<h5 align="center">this is <a href="//www.kaggle.com/janaadarwish"> Jana Amin </a> an active Kaggle learner exploring Machine learning, data analysis, and model building. I use Kaggle to experiment with real-world datasets, practice feature engineering, and share my progress through notebooks. Currently focused on **classification problems** (like heart disease prediction) and **regression tasks** (like house price prediction).</h6>
-<img src="ss.jpg" width="100%"/>
-
 <br>
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaadarwish&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
