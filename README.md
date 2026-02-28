@@ -20,8 +20,8 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>🌱 ** License & Certifications**</h2>
 <ul>
-  <li>🎓 <strong>Kaggle</strong> – Intro to Programming</li>
-  <li>🤖 <strong>Kaggle</strong> – Intro to Machine Learning</li>
+  <li>🎓 <strong>codealpha</strong> –Data science internship</li>
+  <li>🤖 <strong>Pixels</strong> – Machine Learning</li>
   <li>🤖 <strong>NTI</strong> – Machine Learning</li>
   <li>🧠 <strong>NVIDIA</strong> – Getting Started with Deep Learning</li>
   <li>🌐 <strong>IEEE</strong> – Front-End Development Course</li>
