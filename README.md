@@ -4,7 +4,7 @@
 🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2> ** License & Certifications ** </h2>
+<h2> License & Certifications </h2>
 <ul>
   <li>🎓 <strong>codealpha</strong> –Data science internship</li>
   <li>🤖 <strong>Pixels</strong> – Machine Learning</li>
