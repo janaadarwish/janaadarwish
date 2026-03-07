@@ -1,8 +1,9 @@
 <h2>This is <a href="https://github.com/janaadarwish">Jana Amin</a></h2>
-
-💻 Computer Science Student @ Helwan University | 💡 **AI & Machine Learning Enthusiast**
-🚀 Passionate about turning data into insights and building smart solutions — **one model at a time.**  
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" />
+</div>
+<h4>💻 Computer Science Student @ Helwan University | 💡 AI & Machine Learning Enthusiast</h4>
+<h4>🚀 Passionate about turning data into insights and building smart solutions — one model at a time.</h4> 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2> License & Certifications </h2>
 <ul>
@@ -21,3 +22,7 @@
 
 <hr>
 ---
+
+
+
+
