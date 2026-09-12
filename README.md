@@ -1,28 +1,43 @@
-<h2>This is <a href="https://github.com/janaadarwish">Jana Amin</a></h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" />
-</div>
-<h4>💻 Computer Science Student @ Helwan University | 💡 AI & Machine Learning Enthusiast</h4>
-<h4>🚀 Passionate about turning data into insights and building smart solutions — one model at a time.</h4> 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2> License & Certifications </h2>
-<ul>
-  <li>🤖 <strong>Pixels</strong> – Machine Learning</li>
-  <li>🤖 <strong>NTI</strong> – Machine Learning</li>
-  <li>🧠 <strong>NVIDIA</strong> – Getting Started with Deep Learning</li>
-  <li>🌐 <strong>IEEE</strong> – Front-End Development Course</li>
-  <li>📊 <strong>SprintXmicrosoft</strong> – AI & ML Fundamentals</li>
-</ul>
-<br>
-<hr>
-<br>
-<p align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaadarwish&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h1 align="center">This is Jana</h1>
+<p>
+third-year Computer Science student at Capital University (Faculty of Computers and Information / CAPU), specializing in Information Systems, a really hardworking person who is always eager to learn and explore the world of tech
 </p>
 
-<hr>
+### 📜 Certifications
+
+- 🟩 **Getting Started with Deep Learning** — NVIDIA (2025)
+- 🎗️ **Intro to Machine Learning** & **Intro to Programming** — Kaggle (2025)
+- 🎨 **Front-End Developing** — IEEE Helwan Student Branch (2025)
+- 🧩 **AI and Machine Learning Fundamentals** — Sprints (2025)
+- 🐍 **Python Essentials 1** — Cisco Networking Academy (2026)
+- 📡 **Machine Learning Summer Training** — National Telecommunication Institute (2025)
+- 🤖 **Machine Learning** — IEEE Helwan SB (2026)
+- 🤖 **Machine Learning** — Pixels Egypt Org (2026)
+- ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
+- ⚙️ **Backend.NET** — iCareer (2026)
+- 📈 **Data Analysis** — Digital HUB (D-HUB) (2026)
+- 🧠 **Claude 101** & **AI Fluency: Framework and Foundations** — Anthropic (2026)
+- 🔬 **Understanding Data Science** — DataCamp (2026)
 ---
 
+### 🛠️ Skills & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
 
-
+---
+<p align="center"><i>⭐️ Always open to collaborating on AI, backend, and data projects!</i></p>
