@@ -1,6 +1,6 @@
 <h1 align="center">This is Jana</h1>
 <p>
-third-year Computer Science student at Capital University (Faculty of Computers and Information / CAPU), specializing in Information Systems, a really hardworking person who is always eager to learn and explore the world of tech
+third-year Computer Science student at Capital University (Faculty of Computers and Information / CAPU), specializing in AI, a really hardworking person who is always eager to learn and explore the world of tech
 </p>
 
 ### 📜 Certifications
