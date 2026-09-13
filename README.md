@@ -14,7 +14,7 @@ third-year Computer Science student at Capital University (Faculty of Computers 
 - 🤖 **Machine Learning** — IEEE Helwan SB (2026)
 - 🤖 **Machine Learning** — Pixels Egypt Org (2026)
 - ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
-- ⚙️ **Backend.NET** — iCareer (2026)
+- ⚙️ **Backend.NET** — iCareer x Rraasoft x Digitera (2026)
 - 📈 **Data Analysis** — Digital HUB (D-HUB) (2026)
 - 🧠 **Claude 101** & **AI Fluency: Framework and Foundations** — Anthropic (2026)
 - 🔬 **Understanding Data Science** — DataCamp (2026)
