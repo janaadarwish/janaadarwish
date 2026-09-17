@@ -5,20 +5,30 @@ third-year Computer Science student at Capital University (Faculty of Computers 
 
 ### 📜 Certifications
 
-- 🟩 **Getting Started with Deep Learning** — NVIDIA (2025)
-- 🎗️ **Intro to Machine Learning** & **Intro to Programming** — Kaggle (2025)
-- 🎨 **Front-End Developing** — IEEE Helwan Student Branch (2025)
-- 🧩 **AI and Machine Learning Fundamentals** — Sprints (2025)
-- 🐍 **Python Essentials 1** — Cisco Networking Academy (2026)
-- 📡 **Machine Learning Summer Training** — National Telecommunication Institute (2025)
-- 🤖 **Machine Learning** — IEEE Helwan SB (2026)
-- 🤖 **Machine Learning summer training** — Pixels Egypt Org (2026)
-- ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
-- ⚙️ **Backend.NET bootcamp** — iCareer x Rraasoft x Digitera (2026)
-- 📈 **Data Analysis summer training** — Digital HUB (D-HUB) x Orange Digital Center(2026)
-- 🧠 **Claude 101** & **AI Fluency: Framework and Foundations** — Anthropic (2026)
-- 🔬 **Understanding Data Science** — DataCamp (2026)
----
+#### 🤖 AI & Machine Learning
+
+* 🟩 **Getting Started with Deep Learning** — NVIDIA (2025)
+* 🧩 **AI and Machine Learning Fundamentals** — Sprints (2025)
+* 📡 **Machine Learning Summer Training** — National Telecommunication Institute (2025)
+* 🤖 **Machine Learning** — IEEE Helwan SB (2026)
+* 🤖 **Machine Learning Summer Training** — Pixels Egypt Org (2026)
+* ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
+* 🧠 **Claude 101** — Anthropic (2026)
+* 🧠 **AI Fluency: Framework and Foundations** — Anthropic (2026)
+
+#### 📊 Data Science & Data Analysis
+
+* 🔬 **Understanding Data Science** — DataCamp (2026)
+* 📈 **Data Analysis Summer Training** — Digital HUB (D-HUB) × Orange Digital Center (2026)
+
+#### 💻 Programming & Development
+
+* 🎗️ **Intro to Programming** — Kaggle (2025)
+* 🎗️ **Intro to Machine Learning** — Kaggle (2025)
+* 🐍 **Python Essentials 1** — Cisco Networking Academy (2026)
+* 🎨 **Front-End Developing** — IEEE Helwan Student Branch (2025)
+* ⚙️ **Backend .NET Bootcamp** — iCareer × Rraasoft × Digitera (2026)
+
 
 ### 🛠️ Skills & Tools
 
