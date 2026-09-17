@@ -12,10 +12,10 @@ third-year Computer Science student at Capital University (Faculty of Computers 
 - 🐍 **Python Essentials 1** — Cisco Networking Academy (2026)
 - 📡 **Machine Learning Summer Training** — National Telecommunication Institute (2025)
 - 🤖 **Machine Learning** — IEEE Helwan SB (2026)
-- 🤖 **Machine Learning** — Pixels Egypt Org (2026)
+- 🤖 **Machine Learning summer training** — Pixels Egypt Org (2026)
 - ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
-- ⚙️ **Backend.NET** — iCareer x Rraasoft x Digitera (2026)
-- 📈 **Data Analysis** — Digital HUB (D-HUB) (2026)
+- ⚙️ **Backend.NET bootcamp** — iCareer x Rraasoft x Digitera (2026)
+- 📈 **Data Analysis summer training** — Digital HUB (D-HUB) x Orange Digital Center(2026)
 - 🧠 **Claude 101** & **AI Fluency: Framework and Foundations** — Anthropic (2026)
 - 🔬 **Understanding Data Science** — DataCamp (2026)
 ---
