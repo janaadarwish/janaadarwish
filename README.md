@@ -11,7 +11,7 @@ third-year Computer Science student at Capital University (Faculty of Computers 
 * 🧩 **AI and Machine Learning Fundamentals** — Sprints (2025)
 * 📡 **Machine Learning Summer Training** — National Telecommunication Institute (2025)
 * 🤖 **Machine Learning** — IEEE Helwan SB (2026)
-* 🤖 **Machine Learning Summer Training** — Pixels Egypt Org (2026)
+* 🤖 **Machine Learning Training** — Pixels Egypt Org (2026)
 * ✨ **Introduction to Generative AI Concepts** — Microsoft (2025)
 * 🧠 **Claude 101** — Anthropic (2026)
 * 🧠 **AI Fluency: Framework and Foundations** — Anthropic (2026)
