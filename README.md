@@ -1,11 +1,18 @@
 <h1 align="center">This is Jana Darwish</h1>
 <p>
 third-year Computer Science student at Capital University (Faculty of Computers and Information / CAPU), specializing in AI, a really hardworking person who is always eager to learn and explore the world of tech
-</p>
-## 📜 Certifications
+
+</p>## 📜 Certifications
+
+### ⚙️ Backend & Software Engineering
+
+- 🚀 **[Backend AI Engineering](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana)** — FlyRank AI, remote internship (2026)
+- 🔌 **[API Automation Framework Architecture for SDETs](https://www.udemy.com/certificate/UC-5cf3fae7-1d8d-44c4-80ad-1ace4465e31d/)** — Udemy (2026)
+- ⚙️ **Backend .NET Bootcamp** — iCareer × EraaSoft × Digitera (2026)
 
 ### 🤖 AI & Machine Learning
 
+- 🚀 **[AI Fluency](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana)** — FlyRank AI (2026)
 - 🟩 **[Getting Started with Deep Learning](https://learn.nvidia.com/certificates?id=tlE5ejxkSHawY7J2sFKZog)** — NVIDIA (2025)
 - 🧩 **[AI and Machine Learning](https://sprints.ai/en-us/journeys/learning/1320/90196947/view-certificate)** — Sprints (2025)
 - 📡 **Machine Learning Summer Training** — National Telecommunication Institute (NTI) (2025)
@@ -19,16 +26,20 @@ third-year Computer Science student at Capital University (Faculty of Computers 
 
 - 🔬 **[Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/c700c50656bcadc1e2c4b9ae3e133da741dd0c68)** — DataCamp (2026)
 - 📈 **Data Analysis Summer Training** — Digital HUB (D-HUB) × Orange Digital Center (2026)
+- 📉 **[Create DAX Calculations in Semantic Models](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/2TRRAJAV?sharingId=B1545D816A58FA92)** — Microsoft
 
 ### 💻 Programming & Development
 
+- 🐍 **[Intro to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/8ec7168238d0c283d45aa9ad319c227a6deba75c)** — DataCamp (2026)
+- 🐍 **[Python Programming](https://sprints.ai/en-us/journeys/learning/1144/90196947/view-certificate)** — Sprints (2026)
+- 🐍 **[Python Essentials 1](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355)** — Cisco Networking Academy (2026)
 - 🎗️ **[Intro to Programming](https://www.kaggle.com/learn/certification/janadarwish/intro-to-programming)** — Kaggle (2025)
 - 🎗️ **[Intro to Machine Learning](https://www.kaggle.com/learn/certification/janadarwish/intro-to-machine-learning)** — Kaggle (2025)
-- 🐍 **[Python Essentials 1](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355)** — Cisco Networking Academy (2026)
 - 🎨 **Front-End Developing** — IEEE Helwan Student Branch (2025)
-- ⚙️ **Backend .NET Bootcamp** — iCareer × EraaSoft × Digitera (2026)
 
+### 📣 Other
 
+- 📣 **[Digital Marketing](https://sprints.ai/en-us/journeys/learning/1195/90196947/view-certificate)** — Sprints (2026)
 ### 🛠️ Skills & Tools
 
 <p align="left">
