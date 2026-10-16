@@ -3,7 +3,7 @@
 third-year Computer Science student at Capital University (Faculty of Computers and Information / CAPU), specializing in AI, a really hardworking person who is always eager to learn and explore the world of tech
 </p>
 
-## 📜 Certifications
+## 📜 Certifications & training
 
 ### ⚙️ Backend & Software Engineering
 
