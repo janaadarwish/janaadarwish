@@ -1,100 +1,103 @@
-# Hi, I'm Jana Darwish 👋
+# JANA DARWISH
+### AI ENGINEERING · SOFTWARE DEVELOPMENT · DATA
 
-🎓 **Third-Year Computer Science Student | AI Specialization**  
-🏛️ Capital University (Faculty of Computers and Information / CAPU)
+**Computer Science Student @ Capital University**  
+Third Year · Artificial Intelligence Specialization
 
-I'm a Computer Science student specializing in Artificial Intelligence, interested in exploring AI engineering, machine learning, backend development, and data science. I enjoy learning new technologies and applying my knowledge through projects and practical training.
+Interested in building intelligent systems at the intersection of AI, software engineering, and data. Currently developing my foundations through technical training, internships, programming practice, and hands-on projects.
 
----
-
-## 📜 Certifications & Training
-
-### ⚙️ Backend & Software Engineering
-
-| Certification / Training | Organization | Year |
-|---|---|---|
-| [Backend AI Engineering](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana) | FlyRank AI — Remote Internship | 2026 |
-| [API Automation Framework Architecture for SDETs](https://www.udemy.com/certificate/UC-5cf3fae7-1d8d-44c4-80ad-1ace4465e31d/) | Udemy | 2026 |
-| Backend .NET Bootcamp | iCareer × EraaSoft × Digitera | 2026 |
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-| Certification / Training | Organization | Year |
-|---|---|---|
-| [AI Fluency](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana) | FlyRank AI | 2026 |
-| [Getting Started with Deep Learning](https://learn.nvidia.com/certificates?id=tlE5ejxkSHawY7J2sFKZog) | NVIDIA | 2025 |
-| [AI and Machine Learning](https://sprints.ai/en-us/journeys/learning/1320/90196947/view-certificate) | Sprints | 2025 |
-| Machine Learning Summer Training | National Telecommunication Institute (NTI) | 2025 |
-| Machine Learning | IEEE Helwan Student Branch | 2026 |
-| Machine Learning Training | Pixels Egypt Org. | 2026 |
-| [Introduction to Generative AI Concepts](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/9Y6R9JFU?sharingId=B1545D816A58FA92) | Microsoft | 2025 |
-| [Claude 101](https://verify.skilljar.com/c/ygdgmzf8ybcq) | Anthropic | 2026 |
-| [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/zts2rj8hphzi) | Anthropic | 2026 |
-
-### 📊 Data Science & Data Analysis
-
-| Certification / Training | Organization | Year |
-|---|---|---|
-| [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/c700c50656bcadc1e2c4b9ae3e133da741dd0c68) | DataCamp | 2026 |
-| Data Analysis Summer Training | Digital HUB (D-HUB) × Orange Digital Center | 2026 |
-| [Create DAX Calculations in Semantic Models](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/2TRRAJAV?sharingId=B1545D816A58FA92) | Microsoft | — |
-
-### 💻 Programming & Development
-
-| Certification / Training | Organization | Year |
-|---|---|---|
-| [Intro to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/8ec7168238d0c283d45aa9ad319c227a6deba75c) | DataCamp | 2026 |
-| [Python Programming](https://sprints.ai/en-us/journeys/learning/1144/90196947/view-certificate) | Sprints | 2026 |
-| [Python Essentials 1](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355) | Cisco Networking Academy | 2026 |
-| [Intro to Programming](https://www.kaggle.com/learn/certification/janadarwish/intro-to-programming) | Kaggle | 2025 |
-| [Intro to Machine Learning](https://www.kaggle.com/learn/certification/janadarwish/intro-to-machine-learning) | Kaggle | 2025 |
-| Front-End Developing | IEEE Helwan Student Branch | 2025 |
-
-### 📣 Additional Training
-
-| Certification / Training | Organization | Year |
-|---|---|---|
-| [Digital Marketing](https://sprints.ai/en-us/journeys/learning/1195/90196947/view-certificate) | Sprints | 2026 |
+[Projects](#selected-work) · [Credentials](#credentials) · [Technical Stack](#technical-stack)
 
 ---
 
-## 🛠️ Technical Skills
+## 01 / TECHNICAL STACK
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</p>
-
-### Web & Backend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</p>
-
-### Tools & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+| PROGRAMMING | AI & DATA |
+|:---|:---|
+| Python · C++ · Java | Machine Learning · Deep Learning |
+| JavaScript · PHP | Pandas · NumPy |
+| **BACKEND & WEB** | **TOOLS** |
+| .NET · MySQL · HTML · CSS · Bootstrap | Git · GitHub · Jupyter · Kaggle |
 
 ---
 
-## 🤝 Let's Connect
+## 02 / EXPERIENCE & TECHNICAL TRAINING
 
-⭐ Open to collaborating on AI, machine learning, backend engineering, and data science projects.
+| EXPERIENCE | ORGANIZATION |
+|:---|:---|
+| **Backend AI Engineering** · Remote Internship · 2026 · [Verify ↗](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana) | FlyRank AI |
+| **Backend .NET Bootcamp** · 2026 | iCareer × EraaSoft × Digitera |
+| **Data Analysis Summer Training** · 2026 | Digital HUB × Orange Digital Center |
+| **Machine Learning Summer Training** · 2025 | National Telecommunication Institute (NTI) |
 
+---
+
+## 03 / CREDENTIALS
+
+### Artificial Intelligence & Machine Learning
+
+| CREDENTIAL | ISSUER |
+|:---|:---|
+| [AI Fluency](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana) · 2026 | FlyRank AI |
+| [Getting Started with Deep Learning](https://learn.nvidia.com/certificates?id=tlE5ejxkSHawY7J2sFKZog) · 2025 | NVIDIA |
+| [AI and Machine Learning](https://sprints.ai/en-us/journeys/learning/1320/90196947/view-certificate) · 2025 | Sprints |
+| Machine Learning · 2026 | IEEE Helwan Student Branch |
+| Machine Learning Training · 2026 | Pixels Egypt Org. |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/certification/janadarwish/intro-to-machine-learning) · 2025 | Kaggle |
+| [Introduction to Generative AI Concepts](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/9Y6R9JFU?sharingId=B1545D816A58FA92) · 2025 | Microsoft |
+| [Claude 101](https://verify.skilljar.com/c/ygdgmzf8ybcq) · 2026 | Anthropic |
+| [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/zts2rj8hphzi) · 2026 | Anthropic |
+
+### Data Science & Data Analysis
+
+| CREDENTIAL | ISSUER |
+|:---|:---|
+| [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/c700c50656bcadc1e2c4b9ae3e133da741dd0c68) · 2026 | DataCamp |
+| Data Analysis Summer Training · 2026 | Digital HUB × Orange Digital Center |
+| [Create DAX Calculations in Semantic Models](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/2TRRAJAV?sharingId=B1545D816A58FA92) | Microsoft |
+
+### Programming & Development
+
+| CREDENTIAL | ISSUER |
+|:---|:---|
+| [Intro to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/8ec7168238d0c283d45aa9ad319c227a6deba75c) · 2026 | DataCamp |
+| [Python Programming](https://sprints.ai/en-us/journeys/learning/1144/90196947/view-certificate) · 2026 | Sprints |
+| [Python Essentials 1](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355) · 2026 | Cisco Networking Academy |
+| [Intro to Programming](https://www.kaggle.com/learn/certification/janadarwish/intro-to-programming) · 2025 | Kaggle |
+| [API Automation Framework Architecture for SDETs](https://www.udemy.com/certificate/UC-5cf3fae7-1d8d-44c4-80ad-1ace4465e31d/) · 2026 | Udemy |
+| Front-End Developing · 2025 | IEEE Helwan Student Branch |
+
+### Other Training
+
+| CREDENTIAL | ISSUER |
+|:---|:---|
+| [Digital Marketing](https://sprints.ai/en-us/journeys/learning/1195/90196947/view-certificate) · 2026 | Sprints |
+
+---
+
+## 04 / SELECTED WORK
+
+| PROJECT | FOCUS |
+|:---|:---|
+| [Machine Learning Baby Steps](https://github.com/janaadarwish/machine-learning-babysteps) | Machine Learning |
+| [Problem Solving — C++](https://github.com/janaadarwish/problem-solving-Cpp) | Algorithms & Problem Solving |
+| [WorkPortal — Virtual Career Fair](https://github.com/janaadarwish/WorkPortal-Virtual-Career-Fair) | Full-Stack Development |
+| [Qxygen Initiative](https://github.com/janaadarwish/Qxygen-initiative-volunteering-project) | Web Development |
+
+---
+
+## 05 / CURRENT FOCUS
+
+- Strengthening programming and problem-solving fundamentals
+- Developing practical AI and machine learning skills
+- Exploring backend engineering and applied AI systems
+
+---
+
+<div align="center">
+
+**CURIOUS BY NATURE. ENGINEERING BY PRACTICE.**
+
+*Always open to collaborating on AI, software engineering, and data projects.*
+
+</div>
