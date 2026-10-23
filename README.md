@@ -65,34 +65,10 @@ Interested in building intelligent systems at the intersection of AI, software e
 | [Python Essentials 1](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355) · 2026 | Cisco Networking Academy |
 | [Intro to Programming](https://www.kaggle.com/learn/certification/janadarwish/intro-to-programming) · 2025 | Kaggle |
 | [API Automation Framework Architecture for SDETs](https://www.udemy.com/certificate/UC-5cf3fae7-1d8d-44c4-80ad-1ace4465e31d/) · 2026 | Udemy |
-| Front-End Developing · 2025 | IEEE Helwan Student Branch |
-
-### Other Training
-
-| CREDENTIAL | ISSUER |
-|:---|:---|
-| [Digital Marketing](https://sprints.ai/en-us/journeys/learning/1195/90196947/view-certificate) · 2026 | Sprints |
+| Front-End Developing · 2025 | IEEE Helwan Student Branch 
 
 ---
 
-## 04 / SELECTED WORK
-
-| PROJECT | FOCUS |
-|:---|:---|
-| [Machine Learning Baby Steps](https://github.com/janaadarwish/machine-learning-babysteps) | Machine Learning |
-| [Problem Solving — C++](https://github.com/janaadarwish/problem-solving-Cpp) | Algorithms & Problem Solving |
-| [WorkPortal — Virtual Career Fair](https://github.com/janaadarwish/WorkPortal-Virtual-Career-Fair) | Full-Stack Development |
-| [Qxygen Initiative](https://github.com/janaadarwish/Qxygen-initiative-volunteering-project) | Web Development |
-
----
-
-## 05 / CURRENT FOCUS
-
-- Strengthening programming and problem-solving fundamentals
-- Developing practical AI and machine learning skills
-- Exploring backend engineering and applied AI systems
-
----
 
 <div align="center">
 
