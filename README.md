@@ -6,22 +6,9 @@ Third Year · Artificial Intelligence Specialization
 
 Interested in building intelligent systems at the intersection of AI, software engineering, and data. Currently developing my foundations through technical training, internships, programming practice, and hands-on projects.
 
-[Projects](#selected-work) · [Credentials](#credentials) · [Technical Stack](#technical-stack)
-
 ---
 
-## 01 / TECHNICAL STACK
-
-| PROGRAMMING | AI & DATA |
-|:---|:---|
-| Python · C++ · Java | Machine Learning · Deep Learning |
-| JavaScript · PHP | Pandas · NumPy |
-| **BACKEND & WEB** | **TOOLS** |
-| .NET · MySQL · HTML · CSS · Bootstrap | Git · GitHub · Jupyter · Kaggle |
-
----
-
-## 02 / EXPERIENCE & TECHNICAL TRAINING
+## 01 / EXPERIENCE & TECHNICAL TRAINING
 
 | EXPERIENCE | ORGANIZATION |
 |:---|:---|
@@ -32,7 +19,7 @@ Interested in building intelligent systems at the intersection of AI, software e
 
 ---
 
-## 03 / CREDENTIALS
+## 02 / CREDENTIALS
 
 ### Artificial Intelligence & Machine Learning
 
