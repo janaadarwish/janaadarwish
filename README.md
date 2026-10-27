@@ -1,6 +1,3 @@
-<!-- Save this as README.md in a repo named exactly: janaadarwish (same as your username) -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Hi%2C%20I'm%20Jana%20%F0%9F%91%8B&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20AI%20Engineer%20%C2%B7%20CS%20Student%20%C2%B7%20Data%20%26%20ML%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
