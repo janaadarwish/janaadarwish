@@ -1,59 +1,41 @@
+<!-- Save this as README.md in a repo named exactly: janaadarwish (same as your username) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Hi%2C%20I'm%20Jana%20%F0%9F%91%8B&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20AI%20Engineer%20%C2%B7%20CS%20Student%20%C2%B7%20Data%20%26%20ML%20Enthusiast&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:8B5CF6,50:22D3EE,100:34D399" width="100%" alt=""/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Backend+AI+Engineer+Intern+%40+FlyRank+AI;Computer+Science+%40+Helwan+University;Building+APIs%2C+dashboards+%26+ML+models;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
-# JANA DARWISH
-
-### `AI ENGINEERING` &nbsp;·&nbsp; `SOFTWARE` &nbsp;·&nbsp; `DATA`
-
-**Computer Science Student · Capital University**  
-Third Year — Artificial Intelligence Specialization
-
-<br/>
-
-*Understanding the systems. Building the intelligence. Engineering the details.*
-
-<br/>
-
-<a href="https://github.com/janaadarwish">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Approach-Learn%20by%20Building-0891B2?style=for-the-badge" alt="Learn by Building"/>
+![Profile Views](https://komarev.com/ghpvc/?username=janaadarwish&color=7209B7&style=for-the-badge&label=PROFILE+VIEWS)
+[![YouTube](https://img.shields.io/badge/YouTube-@Janaadarwish-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Janaadarwish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
 </div>
 
 ---
 
+## 🌸 About Me
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/01-7C3AED?style=flat-square" alt="01"/> &nbsp; THE DIRECTION
-
-I'm a third-year Computer Science student specializing in Artificial Intelligence.
-
-I'm interested in how intelligent systems are built — from machine learning and data analysis to backend services, APIs, and automation.
-
-My focus is on turning technical knowledge into practical skills through training, programming practice, and projects.
+- 🎓 2nd-year **Computer Science** student at **Helwan University** (Egypt)
+- 🧠 Specializing in **Information Systems**
+- 💼 **Backend AI Engineer Intern** at **FlyRank AI**
+- 🔬 Exploring **backend, machine learning & data analytics**
+- 🎬 I make content on **YouTube** too
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/02-0891B2?style=flat-square" alt="02"/> &nbsp; THE TOOLKIT
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" alt="Python, C++, Git, GitHub, VS Code"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-0891B2?style=flat-square" alt="Data Analysis"/>
-<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" alt="SQL"/>
-<img src="https://img.shields.io/badge/Backend-0F766E?style=flat-square" alt="Backend"/>
-<img src="https://img.shields.io/badge/APIs-DB2777?style=flat-square" alt="APIs"/>
+- 🎯 Goal: transfer into the **Information Systems** department
+- 🏆 Goal: graduate with **distinction**
+- 🌍 Languages: Arabic & English
+- 📈 Currently leveling up in **API automation, AI engineering & ML**
+- ⚡ Fun fact: I turn coursework into real projects
 
 </td>
 </tr>
@@ -61,260 +43,249 @@ My focus is on turning technical knowledge into practical skills through trainin
 
 ---
 
-## <img src="https://img.shields.io/badge/01-7C3AED?style=flat-square" alt="01"/> Experience & Technical Training
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**<img src="https://img.shields.io/badge/AI%20ENGINEERING-7C3AED?style=flat-square" alt="AI Engineering"/>**
-
-### FlyRank AI
-
-Backend AI Engineering Internship
-
-`REMOTE` · `2026`
-
-[Verify internship ↗](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana)
-
-</td>
-<td width="50%" valign="top">
-
-**<img src="https://img.shields.io/badge/BACKEND-0891B2?style=flat-square" alt="Backend"/>**
-
-### EraaSoft × Digitera
-
-Backend .NET Bootcamp
-
-`2026`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**<img src="https://img.shields.io/badge/DATA-0F766E?style=flat-square" alt="Data"/>**
-
-### Digital HUB (D-HUB) Egypt
-
-Data Analysis Summer Training
-
-`2026`
-
-</td>
-<td width="50%" valign="top">
-
-**<img src="https://img.shields.io/badge/ML-DB2777?style=flat-square" alt="Machine Learning"/>**
-
-### National Telecommunication Institute
-
-Machine Learning Summer Training
-
-`2025`
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://img.shields.io/badge/02-0891B2?style=flat-square" alt="02"/> Selected Credentials
-
-*A curated selection from my full learning archive.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — BACKEND ENGINEERING**
-
-### Backend AI Engineering
-
-FlyRank AI · 2026
-
-[Credential verification ↗](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana)
-
-</td>
-<td width="50%" valign="top">
-
-**02 — ARTIFICIAL INTELLIGENCE**
-
-### AI Fluency
-
-FlyRank AI · 2026
-
-[Credential verification ↗](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — DEEP LEARNING**
-
-### Getting Started with Deep Learning
-
-NVIDIA · 2025
-
-[View certificate ↗](https://learn.nvidia.com/certificates?id=tlE5ejxkSHawY7J2sFKZog)
-
-</td>
-<td width="50%" valign="top">
-
-**04 — MACHINE LEARNING**
-
-### Intro to Machine Learning
-
-Kaggle · 2025
-
-[View certificate ↗](https://www.kaggle.com/learn/certification/janadarwish/intro-to-machine-learning)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**05 — DATA SCIENCE**
-
-### Understanding Data Science
-
-DataCamp · 2026
-
-[View statement ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/c700c50656bcadc1e2c4b9ae3e133da741dd0c68)
-
-</td>
-<td width="50%" valign="top">
-
-**06 — PYTHON**
-
-### Python Essentials 1
-
-Cisco Networking Academy · 2026
-
-[View badge ↗](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355)
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://img.shields.io/badge/03-7C3AED?style=flat-square" alt="03"/> Complete Certificate Archive
-
-All listed credentials are organized below by technical area. Expand a section to explore the full list.
-
-<details>
-<summary><strong>▸ Artificial Intelligence & Machine Learning</strong></summary>
-
-| Credential | Issuer | Year / Link |
-|:---|:---|:---|
-| AI Fluency | FlyRank AI | [Verify ↗](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana) · 2026 |
-| Introduction to Generative AI Concepts | Microsoft | [Verify ↗](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/9Y6R9JFU?sharingId=B1545D816A58FA92) · 2025 |
-| Claude 101 | Anthropic | [Verify ↗](https://verify.skilljar.com/c/ygdgmzf8ybcq) · 2026 |
-| AI Fluency: Framework & Foundations | Anthropic | [Verify ↗](https://verify.skilljar.com/c/zts2rj8hphzi) · 2026 |
-| Getting Started with Deep Learning | NVIDIA | [Certificate ↗](https://learn.nvidia.com/certificates?id=tlE5ejxkSHawY7J2sFKZog) · 2025 |
-| AI and Machine Learning | Sprints | [Certificate ↗](https://sprints.ai/en-us/journeys/learning/1320/90196947/view-certificate) · 2025 |
-| Intro to Machine Learning | Kaggle | [Certificate ↗](https://www.kaggle.com/learn/certification/janadarwish/intro-to-machine-learning) · 2025 |
-| Machine Learning Summer Training | National Telecommunication Institute (NTI) | 2025 |
-| Machine Learning | IEEE Helwan Student Branch | 2026 |
-| Machine Learning Training | Pixels Egypt Org. | 2026 |
-| Introduction to AI for Work | DataCamp | Year not specified |
-| Understanding Artificial Intelligence | DataCamp | Year not specified |
-
-</details>
-
-<details>
-<summary><strong>▸ Data Science & Data Analysis</strong></summary>
-
-| Credential | Issuer | Year / Link |
-|:---|:---|:---|
-| Understanding Data Science | DataCamp | [Statement ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/c700c50656bcadc1e2c4b9ae3e133da741dd0c68) · 2026 |
-| Data Analysis Summer Training | Digital HUB (D-HUB) Egypt | 2026 |
-| Data Analysis | Sprints | [Certificate not supplied] · 2026 |
-| Create DAX Calculations in Semantic Models | Microsoft | [Credential ↗](https://learn.microsoft.com/api/achievements/share/en-us/janaamin-7935/2TRRAJAV?sharingId=B1545D816A58FA92) |
-
-</details>
-
-<details>
-<summary><strong>▸ Programming & Software Development</strong></summary>
-
-| Credential | Issuer | Year / Link |
-|:---|:---|:---|
-| Intro to Python | DataCamp | [Statement ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/8ec7168238d0c283d45aa9ad319c227a6deba75c) · 2026 |
-| Python Programming | Sprints | [Certificate ↗](https://sprints.ai/en-us/journeys/learning/1144/90196947/view-certificate) · 2026 |
-| Python Essentials 1 | Cisco Networking Academy | [Badge ↗](https://www.credly.com/badges/a6d9189a-91f4-4eb7-a41f-69c8f0e7c355) · 2026 |
-| Intro to Programming | Kaggle | [Certificate ↗](https://www.kaggle.com/learn/certification/janadarwish/intro-to-programming) · 2025 |
-| API Automation Framework Architecture for SDETs | Udemy | [Certificate ↗](https://www.udemy.com/certificate/UC-5cf3fae7-1d8d-44c4-80ad-1ace4465e31d/) · 2026 |
-| Front-End Developing | IEEE Helwan Student Branch | 2025 |
-| Backend .NET Bootcamp | EraaSoft × Digitera | 2026 |
-| Backend AI Engineering Internship | FlyRank AI | [Verify ↗](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana) · 2026 |
-
-</details>
-
-<details>
-<summary><strong>▸ Additional Learning</strong></summary>
-
-| Credential | Issuer | Year / Link |
-|:---|:---|:---|
-| Digital Marketing | Sprints | 2026 |
-
-</details>
-
----
-
-## <img src="https://img.shields.io/badge/04-0F766E?style=flat-square" alt="04"/> Built Through Practice
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href="https://github.com/janaadarwish/NTI-machine-learning-tasks">
-<img src="https://img.shields.io/badge/NTI-Machine%20Learning%20Tasks-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="NTI Machine Learning Tasks"/>
-</a>
-
-<br/>
-
-Hands-on machine learning training tasks.
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/janaadarwish/problem-solving-Cpp">
-<img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-0891B2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Problem Solving"/>
-</a>
-
-<br/>
-
-Programming fundamentals and competitive problem solving.
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/janaadarwish?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub projects"/>
-</a>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🧾 Accounting Web App
+Double-entry journal system with a full **Arabic RTL** interface.
+
+![Web](https://img.shields.io/badge/Web_App-F72585?style=flat-square)
+![RTL](https://img.shields.io/badge/Arabic_RTL-7209B7?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ CPU Scheduling Simulator
+OS project comparing **Priority vs. SRTF** scheduling algorithms.
+
+![OS](https://img.shields.io/badge/Operating_Systems-3A0CA3?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-4361EE?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 💼 Virtual Career Fair
+**WorkPortal** — a virtual career fair system for the Software Engineering course.
+
+![PHP](https://img.shields.io/badge/PHP-4CC9F0?style=flat-square&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4895EF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🏥 Healthcare Telemedicine Network
+**VLAN** configuration and network design for a telemedicine setup.
+
+![Networking](https://img.shields.io/badge/Networking-F77F00?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN-D62828?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📊 Data Analytics Dashboard
+Star-schema dataset cleaned, explored, and visualized in **Power BI**.
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-06D6A0?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 ML Baby Steps
+My personal **machine learning** practice notebooks.
+
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+> 💡 Check the **Repositories** tab for the full code and live demos.
+
+---
+
+## 🏅 Certifications (24)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:34D399" width="100%" alt=""/>
-
-<br/>
-
-### CURIOUS BY NATURE. ENGINEERING BY PRACTICE.
-
-*Learn deeply. Build deliberately. Keep evolving.*
-
-<br/>
-
-<a href="https://github.com/janaadarwish">
-<img src="https://img.shields.io/badge/CONNECT-View%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub"/>
-</a>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"><br>
+<b>API Automation Framework Architecture for SDETs</b><br><sub>2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/EraaSoft-F72585?style=for-the-badge" alt="EraaSoft"><br>
+<b>Digitera Backend Bootcamp</b><br><sub>2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/FlyRank_AI-7209B7?style=for-the-badge" alt="FlyRank AI"><br>
+<a href="https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana"><b>Backend AI Engineering</b></a><br><sub>Remote Internship · 2026 · ✅ Verify</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/FlyRank_AI-7209B7?style=for-the-badge" alt="FlyRank AI"><br>
+<a href="https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana"><b>AI Fluency</b></a><br><sub>2026 · ✅ Verify</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/D--HUB_Egypt-3A0CA3?style=for-the-badge" alt="D-HUB Egypt"><br>
+<b>Data Analysis Summer Training</b><br><sub>Digital HUB (D-HUB) Egypt</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"><br>
+<b>Claude 101</b><br><sub>Anthropic</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"><br>
+<b>AI Fluency: Framework & Foundations</b><br><sub>Anthropic</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br>
+<b>Introduction to AI for Work</b><br><sub>DataCamp</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br>
+<b>Understanding Artificial Intelligence</b><br><sub>DataCamp</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br>
+<b>Introduction to Python</b><br><sub>2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br>
+<b>Understanding Data Science</b><br><sub>Statement of Accomplishment · 2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"><br>
+<b>Python Essentials 1</b><br><sub>Cisco Networking Academy · 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/NTI-C1121F?style=for-the-badge" alt="NTI"><br>
+<b>Machine Learning Summer Training</b><br><sub>National Telecommunication Institute · 2025</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Pixels_Egypt-FF9F1C?style=for-the-badge&logoColor=black" alt="Pixels Egypt"><br>
+<b>Machine Learning Training</b><br><sub>Pixels Egypt Org. · 2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"><br>
+<b>Create DAX Calculations in Semantic Models</b><br><sub>Microsoft</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"><br>
+<b>Introduction to Generative AI Concepts</b><br><sub>Microsoft</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"><br>
+<b>Getting Started with Deep Learning</b><br><sub>NVIDIA</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"><br>
+<b>Intro to Machine Learning</b><br><sub>Kaggle · 2025</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"><br>
+<b>Intro to Programming</b><br><sub>Kaggle · 2025</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/IEEE_Helwan-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Helwan"><br>
+<b>Front-End Development</b><br><sub>IEEE Helwan Student Branch · 2025</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Sprints-4361EE?style=for-the-badge" alt="Sprints"><br>
+<b>Data Analysis</b><br><sub>Sprints · 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Sprints-4361EE?style=for-the-badge" alt="Sprints"><br>
+<b>Python Programming</b><br><sub>Sprints · 2026</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Sprints-4361EE?style=for-the-badge" alt="Sprints"><br>
+<b>AI and Machine Learning</b><br><sub>Sprints · 2025</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/Sprints-4361EE?style=for-the-badge" alt="Sprints"><br>
+<b>Digital Marketing</b><br><sub>Sprints · 2026</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=janaadarwish&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=janaadarwish&theme=radical&hide_border=true" alt="streak" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=janaadarwish&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Janaadarwish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janaadarwish)
+
+*"Learn it, build it, ship it."* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer" />
