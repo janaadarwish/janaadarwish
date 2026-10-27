@@ -22,20 +22,11 @@
 <tr>
 <td width="50%" valign="top">
 
-- 🎓 2nd-year **Computer Science** student at **Helwan University** (Egypt)
-- 🧠 Specializing in **Information Systems**
+- 🎓 3rd-year **Computer Science** student at **Helwan University** (Egypt)
+- 🧠 Specializing in **AI**
 - 💼 **Backend AI Engineer Intern** at **FlyRank AI**
 - 🔬 Exploring **backend, machine learning & data analytics**
 - 🎬 I make content on **YouTube** too
-
-</td>
-<td width="50%" valign="top">
-
-- 🎯 Goal: transfer into the **Information Systems** department
-- 🏆 Goal: graduate with **distinction**
-- 🌍 Languages: Arabic & English
-- 📈 Currently leveling up in **API automation, AI engineering & ML**
-- ⚡ Fun fact: I turn coursework into real projects
 
 </td>
 </tr>
