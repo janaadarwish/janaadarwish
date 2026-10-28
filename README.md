@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Backend+AI+Engineer+Intern+%40+FlyRank+AI;Computer+Science+%40+Helwan+University;Building+APIs%2C+dashboards+%26+ML+models;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Science+%40+Helwan+University;Building+APIs%2C+dashboards+%26+ML+models;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,7 +21,6 @@
 
 - 🎓 3rd-year **Computer Science** student at **Helwan University** (Egypt)
 - 🧠 Specializing in **AI**
-- 💼 **Backend AI Engineer Intern** at **FlyRank AI**
 - 🔬 Exploring **backend, machine learning & data analytics**
 - 🎬 I make content on **YouTube** too
 
