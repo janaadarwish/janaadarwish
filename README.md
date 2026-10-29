@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-- 🎓 3rd-year **Computer Science** student at **Helwan University** (Egypt)
+- 🎓 3rd-year **Computer Science** student at **Capital University** (Egypt)
 - 🧠 Specializing in **AI**
 - 🔬 Exploring **backend, machine learning & data analytics**
 - 🎬 I make content on **YouTube** too
