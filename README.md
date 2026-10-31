@@ -113,10 +113,6 @@ class Jana:
 
 <div align="center">
 
-<img height="170" src="https://YOUR-PROJECT.vercel.app/api?username=janaadarwish&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
-<img height="170" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top languages" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=janaadarwish&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
