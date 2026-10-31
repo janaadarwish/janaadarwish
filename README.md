@@ -113,8 +113,8 @@ class Jana:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=janaadarwish&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top languages" />
+<img height="170" src="https://YOUR-PROJECT.vercel.app/api?username=janaadarwish&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="stats" />
+<img height="170" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="top languages" />
 
 <br>
 
