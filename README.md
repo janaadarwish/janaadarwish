@@ -34,7 +34,7 @@ MOTTO="Learn it. Build it. Ship it."
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=C++&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=C++&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00FF41)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
