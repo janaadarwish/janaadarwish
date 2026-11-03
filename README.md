@@ -81,8 +81,8 @@ class Jana:
 
 | `[ISSUER]` | `[CERTIFICATE]` | `[YEAR]` |
 |:--|:--|:--|
-| **FlyRank AI** | [Backend AI Engineering (Remote Internship)](https://internship.flyrank.ai/verify/FR-D11-FDC37-739A1?first_name=Jana) ✅ | 2026 |
-| **FlyRank AI** | [AI Fluency](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana) ✅ | 2026 |
+| **FlyRank AI** | Backend AI Engineering (Remote Internship) | 2026 |
+| **FlyRank AI** | AI Fluency | 2026 |
 | **EraaSoft** | Digitera Backend Bootcamp | 2026 |
 | **Udemy** | API Automation Framework Architecture for SDETs | 2026 |
 | **Anthropic** | Claude 101 | 2026 |
