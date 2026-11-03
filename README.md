@@ -85,20 +85,20 @@ class Jana:
 | **FlyRank AI** | [AI Fluency](https://internship.flyrank.ai/verify/FR-D11-6BD1C-1A23A?first_name=Jana) ✅ | 2026 |
 | **EraaSoft** | Digitera Backend Bootcamp | 2026 |
 | **Udemy** | API Automation Framework Architecture for SDETs | 2026 |
-| **Anthropic** | Claude 101 | — |
-| **Anthropic** | AI Fluency: Framework & Foundations | — |
-| **D-HUB Egypt** | Data Analysis Summer Training | — |
-| **DataCamp** | Intrmediate Python | — |
-| **DataCamp** | Introduction to AI for Work | — |
-| **DataCamp** | Understanding Artificial Intelligence | — |
+| **Anthropic** | Claude 101 | 2026 |
+| **Anthropic** | AI Fluency: Framework & Foundations | 2026 |
+| **D-HUB Egypt** | Data Analysis Summer Training | 2026 |
+| **DataCamp** | Intrmediate Python | 2026 |
+| **DataCamp** | Introduction to AI for Work | 2026 |
+| **DataCamp** | Understanding Artificial Intelligence |2026 |
 | **DataCamp** | Introduction to Python | 2026 |
 | **DataCamp** | Understanding Data Science | 2026 |
 | **Cisco** | Python Essentials 1 | 2026 |
 | **NTI** | Machine Learning Summer Training | 2025 |
 | **Pixels Egypt** | Machine Learning Training | 2026 |
-| **Microsoft** | Create DAX Calculations in Semantic Models | — |
-| **Microsoft** | Introduction to Generative AI Concepts | — |
-| **NVIDIA** | Getting Started with Deep Learning | — |
+| **Microsoft** | Create DAX Calculations in Semantic Models | 2026 |
+| **Microsoft** | Introduction to Generative AI Concepts | 2025 |
+| **NVIDIA** | Getting Started with Deep Learning | 2025 |
 | **Kaggle** | Intro to Machine Learning | 2025 |
 | **Kaggle** | Intro to Programming | 2025 |
 | **IEEE Helwan** | Front-End Development | 2025 |
