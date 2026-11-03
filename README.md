@@ -87,6 +87,7 @@ class Jana:
 | **Anthropic** | Claude 101 | — |
 | **Anthropic** | AI Fluency: Framework & Foundations | — |
 | **D-HUB Egypt** | Data Analysis Summer Training | — |
+| **DataCamp** | Intrmediate Python | — |
 | **DataCamp** | Introduction to AI for Work | — |
 | **DataCamp** | Understanding Artificial Intelligence | — |
 | **DataCamp** | Introduction to Python | 2026 |
