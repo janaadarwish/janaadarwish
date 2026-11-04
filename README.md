@@ -33,23 +33,26 @@ MOTTO="Learn it. Build it. Ship it."
 ### `~/stack.json`
 
 <div align="center">
-
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=C++&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00FF41)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF41)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=00FF41)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF41)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41)
+
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00FF41)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF41)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF41)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=00FF41)
+
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41)
-
 </div>
 
 ---
