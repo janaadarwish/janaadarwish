@@ -33,6 +33,7 @@ MOTTO="Learn it. Build it. Ship it."
 ### `~/stack.json`
 
 <div align="center">
+    
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=C++&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
