@@ -33,16 +33,31 @@ MOTTO="Learn it. Build it. Ship it."
 ### `~/stack.json`
 
 <div align="center">
-    
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=C++&logoColor=00FF41)
+
+**`"languages"`**
+
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=powerbi&logoColor=00FF41)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF41)
+![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=flat-square&logo=markdown&logoColor=00FF41)
+
+**`"backend"`**
+
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00FF41)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=00FF41)
+
+**`"data_and_ml"`**
 
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00FF41)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF41)
@@ -51,9 +66,15 @@ MOTTO="Learn it. Build it. Ship it."
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF41)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF41)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=00FF41)
+![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=flat-square&logo=kaggle&logoColor=00FF41)
+
+**`"tools"`**
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF41)
+
 </div>
 
 ---
@@ -76,40 +97,63 @@ class Jana:
 
 ---
 
-### `$ ls ~/certifications` &nbsp;(24 files)
+### `$ ls ~/certifications` &nbsp;(25 files)
 
 <details>
-<summary><code>$ cd certifications && ls -la</code> &nbsp;(click to expand)</summary>
+<summary><code>$ tree certifications/ --sort=year</code> &nbsp;(click to expand)</summary>
 
 <br>
 
-| `[ISSUER]` | `[CERTIFICATE]` | `[YEAR]` |
-|:--|:--|:--|
-| **FlyRank AI** | Backend AI Engineering (Remote Internship) | 2026 |
-| **FlyRank AI** | AI Fluency | 2026 |
-| **EraaSoft** | Digitera Backend Bootcamp | 2026 |
-| **Udemy** | API Automation Framework Architecture for SDETs | 2026 |
-| **Anthropic** | Claude 101 | 2026 |
-| **Anthropic** | AI Fluency: Framework & Foundations | 2026 |
-| **D-HUB Egypt** | Data Analysis Summer Training | 2026 |
-| **DataCamp** | Intrmediate Python | 2026 |
-| **DataCamp** | Introduction to AI for Work | 2026 |
-| **DataCamp** | Understanding Artificial Intelligence |2026 |
-| **DataCamp** | Introduction to Python | 2026 |
-| **DataCamp** | Understanding Data Science | 2026 |
-| **Cisco** | Python Essentials 1 | 2026 |
-| **NTI** | Machine Learning Summer Training | 2025 |
-| **Pixels Egypt** | Machine Learning Training | 2026 |
-| **Microsoft** | Create DAX Calculations in Semantic Models | 2026 |
-| **Microsoft** | Introduction to Generative AI Concepts | 2025 |
-| **NVIDIA** | Getting Started with Deep Learning | 2025 |
-| **Kaggle** | Intro to Machine Learning | 2025 |
-| **Kaggle** | Intro to Programming | 2025 |
-| **IEEE Helwan** | Front-End Development | 2025 |
-| **Sprints** | Data Analysis | 2026 |
-| **Sprints** | Python Programming | 2026 |
-| **Sprints** | AI and Machine Learning | 2025 |
-| **Sprints** | Digital Marketing | 2026 |
+```bash
+jana@capu:~$ tree certifications/
+certifications/
+│
+├── 📁 backend/
+│   ├── backend_ai_engineering.remote        # FlyRank AI ........ 2026
+│   ├── digitera_backend_bootcamp.sh         # EraaSoft .......... 2026
+│   └── api_automation_for_sdets.java        # Udemy ............. 2026
+│
+├── 📁 ai-ml/
+│   ├── ai_fluency.md                        # FlyRank AI ........ 2026
+│   ├── claude_101.md                        # Anthropic ......... 2026
+│   ├── ai_fluency_framework.md              # Anthropic ......... 2026
+│   ├── intro_to_ai_for_work.md              # DataCamp .......... 2026
+│   ├── understanding_ai.md                  # DataCamp .......... 2026
+│   ├── machine_learning.ipynb               # Pixels Egypt ...... 2026
+│   ├── ai_and_machine_learning.ipynb        # Sprints ........... 2025
+│   ├── machine_learning_summer.ipynb        # NTI ............... 2025
+│   ├── intro_to_ml.ipynb                    # Kaggle ............ 2025
+│   ├── deep_learning_getting_started.py     # NVIDIA ............ 2025
+│   └── generative_ai_concepts.md            # Microsoft ......... 2025
+│
+├── 📁 data/
+│   ├── data_analysis_summer.csv             # D-HUB Egypt ....... 2026
+│   ├── data_analysis.csv                    # Sprints ........... 2026
+│   ├── understanding_data_science.csv       # DataCamp .......... 2026
+│   └── dax_semantic_models.pbix             # Microsoft ......... 2026
+│
+├── 📁 python/
+│   ├── python_programming.py                # Sprints ........... 2026
+│   ├── intermediate_python.py               # DataCamp .......... 2026
+│   ├── intro_to_python.py                   # DataCamp .......... 2026
+│   ├── python_essentials_1.py               # Cisco ............. 2026
+│   └── intro_to_programming.py              # Kaggle ............ 2025
+│
+├── 📁 frontend/
+│   └── front_end_development.html           # IEEE Helwan ....... 2025
+│
+└── 📁 other/
+    └── digital_marketing.log                # Sprints ........... 2026
+
+7 directories, 25 files
+```
+
+```bash
+jana@capu:~/certifications$ git log --oneline --since="2025" | wc -l
+25
+jana@capu:~/certifications$ echo $?
+0   # still collecting commits 🚀
+```
 
 </details>
 
